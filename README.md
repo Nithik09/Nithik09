@@ -89,8 +89,10 @@ I’m an **AI Engineer focused on Automation**, building intelligent, product-re
 ---
 ---
 
-## ✍️ Today’s Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## ✍️ Today’s Dev Thought
+> **“Production is where machine learning stops being theory and starts being engineering.”**  
+> — *Applied ML Insight*
 
 
 
