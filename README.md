@@ -35,91 +35,65 @@ I’m an **AI Engineer focused on Automation**, building intelligent, product-re
 
 ---
 
-## 🛠 Technical Skills
+---
 
-### 👨‍💻 Programming Languages
-- Python, Java, SQL, JavaScript, TypeScript
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nithik-roshan-devaraj-8783192aa)
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Supervised & Unsupervised Learning  
-- Feature Engineering & Model Evaluation  
-- Optimization & Decision Algorithms  
-- Reinforcement Learning (Bandits)
+---
 
-### 🧠 Deep Learning
-- Neural Networks  
-- CNNs, RNNs  
-- Transformers (conceptual & applied)  
-- TensorFlow, PyTorch  
+## 💻 Tech Stack:
 
-### 🗣 Natural Language Processing (NLP)
-- Text preprocessing & embeddings  
-- Semantic search & similarity matching  
-- Retrieval-Augmented Generation (RAG)  
-- LLM-based workflows & automation  
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-111?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
 
-### 📊 Data & Analytics
-- Pandas, NumPy, Matplotlib  
-- Exploratory Data Analysis (EDA)  
-- Statistical analysis & pipelines  
+### 🤖 AI / ML / DL / NLP
+![Pandas](https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111?style=flat&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat&logo=pytorch)
 
-### 🌐 Backend & APIs
-- FastAPI, Flask  
-- RESTful API design  
-- Model serving & inference endpoints  
-- Authentication & validation workflows  
+### 🌐 Backend / APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-111?style=flat&logo=flask)
+![Postman](https://img.shields.io/badge/Postman-111?style=flat&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-111?style=flat&logo=swagger)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat&logo=supabase)
+![Qdrant](https://img.shields.io/badge/Qdrant-111?style=flat&logo=qdrant)
+
+### ⚙️ DevOps / Cloud
+![AWS](https://img.shields.io/badge/AWS-111?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=flat&logo=githubactions)
+![Render](https://img.shields.io/badge/Render-111?style=flat&logo=render)
 
 ### 🎨 Frontend
-- HTML, CSS, JavaScript  
-- React (basic–intermediate)  
-- API-driven UI integration  
+![HTML5](https://img.shields.io/badge/HTML5-111?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=flat&logo=css3)
+![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, Lambda – basics)  
-- Docker  
-- GitHub Actions (CI/CD basics)  
-- Git & GitHub  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 AI Helpdesk Automation System (Deployed)
-**Senior-level AI Automation Platform**
-
-- Built an end-to-end AI Helpdesk using **RAG + workflow orchestration**
-- Designed webhook-based APIs for external tools and integrations
-- Implemented **user validation & ticket management** with PostgreSQL (Supabase)
-- Enabled **semantic search** using Qdrant for accurate knowledge retrieval
-- Delivered **context-aware LLM responses** with automated escalation logic
-- Orchestrated end-to-end workflows using **n8n**
-- Deployed a production-ready system on **Render**
-
-**Tech:** n8n, FastAPI, Supabase (PostgreSQL), Qdrant, LLMs, Render, Postman
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/Linux-111?style=flat&logo=linux)
+![n8n](https://img.shields.io/badge/n8n-111?style=flat&logo=n8n)
 
 ---
-
-### 🔹 CreditSense AI — Credit Risk Decision Engine
-**Product-Facing FinTech AI System**
-
-- Built a real-time credit decision engine for loan approval / rejection
-- Processes user inputs such as income, credit score, and loan amount
-- Performs **instant ML inference** via backend APIs
-- Exposed decisions through a **web interface** to simulate real product usage
-- Designed with focus on **latency, usability, and system scalability**
-- Demonstrates full-stack AI engineering and fintech decision logic
-
-**Skills:** Machine Learning, Real-time Inference, API Design, Full-Stack AI Systems, FinTech Decisioning
-
 ---
 
-## 🎯 What Drives Me
-- Building **AI systems that work in real production environments**
-- Automating complex decision workflows using intelligence + engineering
-- Thinking beyond models — focusing on **systems, products, and impact**
-- Continuous learning through **real projects, not just theory**
+## ✍️ Today’s Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+
+
 
 ## 🤝 Let’s Connect
 If you're interested in:
